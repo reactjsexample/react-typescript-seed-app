@@ -21,7 +21,8 @@ Full source code available at [https://github.com/reactjsexample/react-typescrip
   * [How To Run Unit Tests](#how-to-run-unit-tests)
   * [How To Build For Production](#how-to-build-for-production)
 - [Software Libraries Included](#software-libraries-included)
--  [About The Author](#about-the-author)
+- [Learn More About React](#learn-more-about-react)
+- [About The Author](#about-the-author)
 
 ## Software Libraries Included
 * ReactJS
@@ -110,5 +111,5 @@ He is an expert in Angular, Polymer, and React and maintains these sites at Gith
 
 JC may be available to work remote, and can be contacted at these links:
  
-* LinkedIn: [www.linkedin.com/in/jclango](www.linkedin.com/in/jclango)
+* LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
 * Email: [jobs@jclango.com](mailto:jobs@jclango.com)
