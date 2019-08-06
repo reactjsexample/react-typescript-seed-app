@@ -25,13 +25,13 @@ Full source code available at [https://github.com/reactjsexample/react-typescrip
 - [Learn More About React](#learn-more-about-react)
 
 ## About The Author
-The author is JC Lango, who has over 19 years experience as a UI Architect and UI Developer.
+**JC Lango** is a UI Architect and UI Developer for large scale web applications at several Fortune 500 companies.
 
-He is an expert in Angular, Polymer, and React and maintains these sites at Github:
+He is an expert in **Angular**, **Polymer**, and **React** and maintains these sites at Github:
 
-* AngularExample [https://github.com/angularexample](https://github.com/angularexample)
-* PolymerExample [https://github.com/polymerexample](https://github.com/polymerexample)
-* ReactJSExample [https://github.com/reactjsexample](https://github.com/reactjsexample)
+* **AngularExample** [https://github.com/angularexample](https://github.com/angularexample)
+* **PolymerExample** [https://github.com/polymerexample](https://github.com/polymerexample)
+* **ReactJSExample** [https://github.com/reactjsexample](https://github.com/reactjsexample)
 
 JC may be available to work remote, and can be contacted at these links:
  
