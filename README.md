@@ -14,6 +14,7 @@ Full source code available at [https://github.com/reactjsexample/react-typescrip
 ![react-typescript-seed-app-screen-shot](https://github.com/reactjsexample/react-typescript-seed-app/blob/master/src/assets/images/react-typescript-seed-app-screen-shot.png)
 
 ## Table of Contents
+- [About The Author](#about-the-author)
 - [Project Setup](#project-setup)
   * [Prerequisites](#prerequisites)
   * [How To Install](#how-to-install)
@@ -22,7 +23,20 @@ Full source code available at [https://github.com/reactjsexample/react-typescrip
   * [How To Build For Production](#how-to-build-for-production)
 - [Software Libraries Included](#software-libraries-included)
 - [Learn More About React](#learn-more-about-react)
-- [About The Author](#about-the-author)
+
+## About The Author
+The author is JC Lango, who has over 19 years experience as a UI Architect and UI Developer.
+
+He is an expert in Angular, Polymer, and React and maintains these sites at Github:
+
+* AngularExample [https://github.com/angularexample](https://github.com/angularexample)
+* PolymerExample [https://github.com/polymerexample](https://github.com/polymerexample)
+* ReactJSExample [https://github.com/reactjsexample](https://github.com/reactjsexample)
+
+JC may be available to work remote, and can be contacted at these links:
+ 
+* LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
+* Email: [jobs@jclango.com](mailto:jobs@jclango.com)
 
 ## Software Libraries Included
 * ReactJS
@@ -99,17 +113,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-## About The Author
-The author is JC Lango, who has over 19 years experience as a UI Architect and UI Developer.
-
-He is an expert in Angular, Polymer, and React and maintains these sites at Github:
-
-* AngularExample [https://github.com/angularexample](https://github.com/angularexample)
-* PolymerExample [https://github.com/polymerexample](https://github.com/polymerexample)
-* ReactJSExample [https://github.com/reactjsexample](https://github.com/reactjsexample)
-
-JC may be available to work remote, and can be contacted at these links:
- 
-* LinkedIn: [https://www.linkedin.com/in/jclango](https://www.linkedin.com/in/jclango)
-* Email: [jobs@jclango.com](mailto:jobs@jclango.com)
