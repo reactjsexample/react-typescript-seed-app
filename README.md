@@ -3,7 +3,7 @@ ReactJS TypeScript Seed App. Preconfigured for TypeScript and SCSS.
 
 Created by **ReactJSExample** [https://github.com/reactjsexample](https://github.com/reactjsexample)
 
-Includes Node-sass, TSLint, Prettier and Material UI.
+Includes Node-sass, TSLint, Prettier.
 
 Optional WebStorm configuration includes automatic TSLint and Prettier on file save (.idea folder).
 
@@ -44,7 +44,6 @@ JC may be available to work remote, and can be contacted at these links:
 * TSLint
 * Prettier
 * Node Sass
-* Material UI
 
 ## Project Setup
 ### Prerequisites
