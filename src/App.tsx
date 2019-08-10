@@ -10,7 +10,7 @@ const App: React.FC = () => {
         <p>React Seed App Configured for TypeScript</p>
         <img src={logo} className="App-logo" alt="logo" />
         <span>
-          Installed Libraries: Material UI, TSLint, Prettier, node-sass
+          Installed Libraries: TSLint, Prettier, node-sass
         </span>
         <br />
         <span>Setup done to use SCCS instead of CSS</span>
